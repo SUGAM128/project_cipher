@@ -1,0 +1,1307 @@
+{
+  "intents": [
+    {
+      "tag": "Feeling_Sad",
+      "patterns": [
+        "I'm feeling sad",
+        "I feel down",
+        "I'm not okay",
+        "Feeling hopeless",
+        "I'm so low right now"
+      ],
+      "responses": [
+        "I'm really sorry you're feeling this way.\nYou're not alone, and your emotions are completely valid.\nTry to be gentle with yourself and give yourself time to heal.\nIf you'd like, I can suggest a few ways to feel a little better.",
+        "It\u2019s okay to feel down sometimes \u2014 emotions are part of being human.\nLet yourself feel what you're feeling and remember it will pass.\nYou\u2019re not alone, and I\u2019m here to talk to you anytime.\nWould you like to share more about what\u2019s bothering you?"
+      ]
+    },
+    {
+      "tag": "Feeling_Anxious",
+      "patterns": [
+        "I'm anxious",
+        "Feeling nervous",
+        "I'm stressed out",
+        "I'm overwhelmed",
+        "Having a panic attack"
+      ],
+      "responses": [
+        "Anxiety can feel very heavy, but you're doing your best and that matters.\nTry to take a few slow, deep breaths with me.\nYou're safe right now. Let\u2019s focus on calming down together.\nWould you like some tips on how to ground yourself in this moment?",
+        "It\u2019s completely normal to feel anxious in difficult situations.\nYou\u2019ve faced hard times before and gotten through them.\nLet\u2019s take it one step at a time \u2014 you are not alone in this.\nDo you want help with a breathing exercise?"
+      ]
+    },
+    {
+      "tag": "Loneliness",
+      "patterns": [
+        "I feel lonely",
+        "No one understands me",
+        "I have no one to talk to",
+        "I'm all alone",
+        "Feeling isolated"
+      ],
+      "responses": [
+        "Feeling lonely can be incredibly hard, but please know you're not alone here.\nI'm always here to listen whenever you need to talk.\nIt's okay to feel this way \u2014 it doesn\u2019t mean something is wrong with you.\nWould you like to talk more about what's making you feel this way?",
+        "Loneliness can creep in even when people are around.\nYou\u2019re seen, and your feelings matter.\nLet\u2019s find ways to reconnect with yourself and others.\nDo you want me to suggest a few things that might help?"
+      ]
+    },
+    {
+      "tag": "Support_Topic_4",
+      "patterns": [
+        "I need support topic 4",
+        "Talk to me about topic 4",
+        "I'm struggling with issue 4"
+      ],
+      "responses": [
+        "It's okay to be facing issue 4, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 4 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_5",
+      "patterns": [
+        "I need support topic 5",
+        "Talk to me about topic 5",
+        "I'm struggling with issue 5"
+      ],
+      "responses": [
+        "It's okay to be facing issue 5, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 5 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_6",
+      "patterns": [
+        "I need support topic 6",
+        "Talk to me about topic 6",
+        "I'm struggling with issue 6"
+      ],
+      "responses": [
+        "It's okay to be facing issue 6, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 6 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_7",
+      "patterns": [
+        "I need support topic 7",
+        "Talk to me about topic 7",
+        "I'm struggling with issue 7"
+      ],
+      "responses": [
+        "It's okay to be facing issue 7, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 7 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_8",
+      "patterns": [
+        "I need support topic 8",
+        "Talk to me about topic 8",
+        "I'm struggling with issue 8"
+      ],
+      "responses": [
+        "It's okay to be facing issue 8, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 8 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_9",
+      "patterns": [
+        "I need support topic 9",
+        "Talk to me about topic 9",
+        "I'm struggling with issue 9"
+      ],
+      "responses": [
+        "It's okay to be facing issue 9, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 9 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_10",
+      "patterns": [
+        "I need support topic 10",
+        "Talk to me about topic 10",
+        "I'm struggling with issue 10"
+      ],
+      "responses": [
+        "It's okay to be facing issue 10, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 10 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_11",
+      "patterns": [
+        "I need support topic 11",
+        "Talk to me about topic 11",
+        "I'm struggling with issue 11"
+      ],
+      "responses": [
+        "It's okay to be facing issue 11, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 11 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_12",
+      "patterns": [
+        "I need support topic 12",
+        "Talk to me about topic 12",
+        "I'm struggling with issue 12"
+      ],
+      "responses": [
+        "It's okay to be facing issue 12, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 12 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_13",
+      "patterns": [
+        "I need support topic 13",
+        "Talk to me about topic 13",
+        "I'm struggling with issue 13"
+      ],
+      "responses": [
+        "It's okay to be facing issue 13, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 13 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_14",
+      "patterns": [
+        "I need support topic 14",
+        "Talk to me about topic 14",
+        "I'm struggling with issue 14"
+      ],
+      "responses": [
+        "It's okay to be facing issue 14, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 14 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_15",
+      "patterns": [
+        "I need support topic 15",
+        "Talk to me about topic 15",
+        "I'm struggling with issue 15"
+      ],
+      "responses": [
+        "It's okay to be facing issue 15, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 15 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_16",
+      "patterns": [
+        "I need support topic 16",
+        "Talk to me about topic 16",
+        "I'm struggling with issue 16"
+      ],
+      "responses": [
+        "It's okay to be facing issue 16, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 16 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_17",
+      "patterns": [
+        "I need support topic 17",
+        "Talk to me about topic 17",
+        "I'm struggling with issue 17"
+      ],
+      "responses": [
+        "It's okay to be facing issue 17, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 17 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_18",
+      "patterns": [
+        "I need support topic 18",
+        "Talk to me about topic 18",
+        "I'm struggling with issue 18"
+      ],
+      "responses": [
+        "It's okay to be facing issue 18, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 18 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_19",
+      "patterns": [
+        "I need support topic 19",
+        "Talk to me about topic 19",
+        "I'm struggling with issue 19"
+      ],
+      "responses": [
+        "It's okay to be facing issue 19, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 19 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_20",
+      "patterns": [
+        "I need support topic 20",
+        "Talk to me about topic 20",
+        "I'm struggling with issue 20"
+      ],
+      "responses": [
+        "It's okay to be facing issue 20, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 20 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_21",
+      "patterns": [
+        "I need support topic 21",
+        "Talk to me about topic 21",
+        "I'm struggling with issue 21"
+      ],
+      "responses": [
+        "It's okay to be facing issue 21, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 21 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_22",
+      "patterns": [
+        "I need support topic 22",
+        "Talk to me about topic 22",
+        "I'm struggling with issue 22"
+      ],
+      "responses": [
+        "It's okay to be facing issue 22, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 22 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_23",
+      "patterns": [
+        "I need support topic 23",
+        "Talk to me about topic 23",
+        "I'm struggling with issue 23"
+      ],
+      "responses": [
+        "It's okay to be facing issue 23, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 23 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_24",
+      "patterns": [
+        "I need support topic 24",
+        "Talk to me about topic 24",
+        "I'm struggling with issue 24"
+      ],
+      "responses": [
+        "It's okay to be facing issue 24, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 24 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_25",
+      "patterns": [
+        "I need support topic 25",
+        "Talk to me about topic 25",
+        "I'm struggling with issue 25"
+      ],
+      "responses": [
+        "It's okay to be facing issue 25, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 25 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_26",
+      "patterns": [
+        "I need support topic 26",
+        "Talk to me about topic 26",
+        "I'm struggling with issue 26"
+      ],
+      "responses": [
+        "It's okay to be facing issue 26, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 26 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_27",
+      "patterns": [
+        "I need support topic 27",
+        "Talk to me about topic 27",
+        "I'm struggling with issue 27"
+      ],
+      "responses": [
+        "It's okay to be facing issue 27, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 27 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_28",
+      "patterns": [
+        "I need support topic 28",
+        "Talk to me about topic 28",
+        "I'm struggling with issue 28"
+      ],
+      "responses": [
+        "It's okay to be facing issue 28, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 28 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_29",
+      "patterns": [
+        "I need support topic 29",
+        "Talk to me about topic 29",
+        "I'm struggling with issue 29"
+      ],
+      "responses": [
+        "It's okay to be facing issue 29, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 29 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_30",
+      "patterns": [
+        "I need support topic 30",
+        "Talk to me about topic 30",
+        "I'm struggling with issue 30"
+      ],
+      "responses": [
+        "It's okay to be facing issue 30, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 30 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_31",
+      "patterns": [
+        "I need support topic 31",
+        "Talk to me about topic 31",
+        "I'm struggling with issue 31"
+      ],
+      "responses": [
+        "It's okay to be facing issue 31, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 31 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_32",
+      "patterns": [
+        "I need support topic 32",
+        "Talk to me about topic 32",
+        "I'm struggling with issue 32"
+      ],
+      "responses": [
+        "It's okay to be facing issue 32, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 32 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_33",
+      "patterns": [
+        "I need support topic 33",
+        "Talk to me about topic 33",
+        "I'm struggling with issue 33"
+      ],
+      "responses": [
+        "It's okay to be facing issue 33, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 33 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_34",
+      "patterns": [
+        "I need support topic 34",
+        "Talk to me about topic 34",
+        "I'm struggling with issue 34"
+      ],
+      "responses": [
+        "It's okay to be facing issue 34, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 34 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_35",
+      "patterns": [
+        "I need support topic 35",
+        "Talk to me about topic 35",
+        "I'm struggling with issue 35"
+      ],
+      "responses": [
+        "It's okay to be facing issue 35, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 35 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_36",
+      "patterns": [
+        "I need support topic 36",
+        "Talk to me about topic 36",
+        "I'm struggling with issue 36"
+      ],
+      "responses": [
+        "It's okay to be facing issue 36, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 36 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_37",
+      "patterns": [
+        "I need support topic 37",
+        "Talk to me about topic 37",
+        "I'm struggling with issue 37"
+      ],
+      "responses": [
+        "It's okay to be facing issue 37, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 37 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_38",
+      "patterns": [
+        "I need support topic 38",
+        "Talk to me about topic 38",
+        "I'm struggling with issue 38"
+      ],
+      "responses": [
+        "It's okay to be facing issue 38, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 38 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_39",
+      "patterns": [
+        "I need support topic 39",
+        "Talk to me about topic 39",
+        "I'm struggling with issue 39"
+      ],
+      "responses": [
+        "It's okay to be facing issue 39, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 39 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_40",
+      "patterns": [
+        "I need support topic 40",
+        "Talk to me about topic 40",
+        "I'm struggling with issue 40"
+      ],
+      "responses": [
+        "It's okay to be facing issue 40, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 40 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_41",
+      "patterns": [
+        "I need support topic 41",
+        "Talk to me about topic 41",
+        "I'm struggling with issue 41"
+      ],
+      "responses": [
+        "It's okay to be facing issue 41, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 41 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_42",
+      "patterns": [
+        "I need support topic 42",
+        "Talk to me about topic 42",
+        "I'm struggling with issue 42"
+      ],
+      "responses": [
+        "It's okay to be facing issue 42, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 42 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_43",
+      "patterns": [
+        "I need support topic 43",
+        "Talk to me about topic 43",
+        "I'm struggling with issue 43"
+      ],
+      "responses": [
+        "It's okay to be facing issue 43, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 43 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_44",
+      "patterns": [
+        "I need support topic 44",
+        "Talk to me about topic 44",
+        "I'm struggling with issue 44"
+      ],
+      "responses": [
+        "It's okay to be facing issue 44, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 44 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_45",
+      "patterns": [
+        "I need support topic 45",
+        "Talk to me about topic 45",
+        "I'm struggling with issue 45"
+      ],
+      "responses": [
+        "It's okay to be facing issue 45, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 45 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_46",
+      "patterns": [
+        "I need support topic 46",
+        "Talk to me about topic 46",
+        "I'm struggling with issue 46"
+      ],
+      "responses": [
+        "It's okay to be facing issue 46, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 46 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_47",
+      "patterns": [
+        "I need support topic 47",
+        "Talk to me about topic 47",
+        "I'm struggling with issue 47"
+      ],
+      "responses": [
+        "It's okay to be facing issue 47, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 47 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_48",
+      "patterns": [
+        "I need support topic 48",
+        "Talk to me about topic 48",
+        "I'm struggling with issue 48"
+      ],
+      "responses": [
+        "It's okay to be facing issue 48, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 48 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_49",
+      "patterns": [
+        "I need support topic 49",
+        "Talk to me about topic 49",
+        "I'm struggling with issue 49"
+      ],
+      "responses": [
+        "It's okay to be facing issue 49, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 49 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_50",
+      "patterns": [
+        "I need support topic 50",
+        "Talk to me about topic 50",
+        "I'm struggling with issue 50"
+      ],
+      "responses": [
+        "It's okay to be facing issue 50, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 50 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_51",
+      "patterns": [
+        "I need support topic 51",
+        "Talk to me about topic 51",
+        "I'm struggling with issue 51"
+      ],
+      "responses": [
+        "It's okay to be facing issue 51, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 51 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_52",
+      "patterns": [
+        "I need support topic 52",
+        "Talk to me about topic 52",
+        "I'm struggling with issue 52"
+      ],
+      "responses": [
+        "It's okay to be facing issue 52, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 52 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_53",
+      "patterns": [
+        "I need support topic 53",
+        "Talk to me about topic 53",
+        "I'm struggling with issue 53"
+      ],
+      "responses": [
+        "It's okay to be facing issue 53, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 53 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_54",
+      "patterns": [
+        "I need support topic 54",
+        "Talk to me about topic 54",
+        "I'm struggling with issue 54"
+      ],
+      "responses": [
+        "It's okay to be facing issue 54, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 54 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_55",
+      "patterns": [
+        "I need support topic 55",
+        "Talk to me about topic 55",
+        "I'm struggling with issue 55"
+      ],
+      "responses": [
+        "It's okay to be facing issue 55, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 55 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_56",
+      "patterns": [
+        "I need support topic 56",
+        "Talk to me about topic 56",
+        "I'm struggling with issue 56"
+      ],
+      "responses": [
+        "It's okay to be facing issue 56, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 56 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_57",
+      "patterns": [
+        "I need support topic 57",
+        "Talk to me about topic 57",
+        "I'm struggling with issue 57"
+      ],
+      "responses": [
+        "It's okay to be facing issue 57, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 57 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_58",
+      "patterns": [
+        "I need support topic 58",
+        "Talk to me about topic 58",
+        "I'm struggling with issue 58"
+      ],
+      "responses": [
+        "It's okay to be facing issue 58, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 58 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_59",
+      "patterns": [
+        "I need support topic 59",
+        "Talk to me about topic 59",
+        "I'm struggling with issue 59"
+      ],
+      "responses": [
+        "It's okay to be facing issue 59, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 59 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_60",
+      "patterns": [
+        "I need support topic 60",
+        "Talk to me about topic 60",
+        "I'm struggling with issue 60"
+      ],
+      "responses": [
+        "It's okay to be facing issue 60, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 60 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_61",
+      "patterns": [
+        "I need support topic 61",
+        "Talk to me about topic 61",
+        "I'm struggling with issue 61"
+      ],
+      "responses": [
+        "It's okay to be facing issue 61, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 61 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_62",
+      "patterns": [
+        "I need support topic 62",
+        "Talk to me about topic 62",
+        "I'm struggling with issue 62"
+      ],
+      "responses": [
+        "It's okay to be facing issue 62, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 62 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_63",
+      "patterns": [
+        "I need support topic 63",
+        "Talk to me about topic 63",
+        "I'm struggling with issue 63"
+      ],
+      "responses": [
+        "It's okay to be facing issue 63, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 63 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_64",
+      "patterns": [
+        "I need support topic 64",
+        "Talk to me about topic 64",
+        "I'm struggling with issue 64"
+      ],
+      "responses": [
+        "It's okay to be facing issue 64, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 64 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_65",
+      "patterns": [
+        "I need support topic 65",
+        "Talk to me about topic 65",
+        "I'm struggling with issue 65"
+      ],
+      "responses": [
+        "It's okay to be facing issue 65, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 65 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_66",
+      "patterns": [
+        "I need support topic 66",
+        "Talk to me about topic 66",
+        "I'm struggling with issue 66"
+      ],
+      "responses": [
+        "It's okay to be facing issue 66, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 66 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_67",
+      "patterns": [
+        "I need support topic 67",
+        "Talk to me about topic 67",
+        "I'm struggling with issue 67"
+      ],
+      "responses": [
+        "It's okay to be facing issue 67, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 67 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_68",
+      "patterns": [
+        "I need support topic 68",
+        "Talk to me about topic 68",
+        "I'm struggling with issue 68"
+      ],
+      "responses": [
+        "It's okay to be facing issue 68, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 68 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_69",
+      "patterns": [
+        "I need support topic 69",
+        "Talk to me about topic 69",
+        "I'm struggling with issue 69"
+      ],
+      "responses": [
+        "It's okay to be facing issue 69, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 69 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_70",
+      "patterns": [
+        "I need support topic 70",
+        "Talk to me about topic 70",
+        "I'm struggling with issue 70"
+      ],
+      "responses": [
+        "It's okay to be facing issue 70, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 70 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_71",
+      "patterns": [
+        "I need support topic 71",
+        "Talk to me about topic 71",
+        "I'm struggling with issue 71"
+      ],
+      "responses": [
+        "It's okay to be facing issue 71, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 71 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_72",
+      "patterns": [
+        "I need support topic 72",
+        "Talk to me about topic 72",
+        "I'm struggling with issue 72"
+      ],
+      "responses": [
+        "It's okay to be facing issue 72, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 72 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_73",
+      "patterns": [
+        "I need support topic 73",
+        "Talk to me about topic 73",
+        "I'm struggling with issue 73"
+      ],
+      "responses": [
+        "It's okay to be facing issue 73, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 73 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_74",
+      "patterns": [
+        "I need support topic 74",
+        "Talk to me about topic 74",
+        "I'm struggling with issue 74"
+      ],
+      "responses": [
+        "It's okay to be facing issue 74, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 74 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_75",
+      "patterns": [
+        "I need support topic 75",
+        "Talk to me about topic 75",
+        "I'm struggling with issue 75"
+      ],
+      "responses": [
+        "It's okay to be facing issue 75, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 75 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_76",
+      "patterns": [
+        "I need support topic 76",
+        "Talk to me about topic 76",
+        "I'm struggling with issue 76"
+      ],
+      "responses": [
+        "It's okay to be facing issue 76, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 76 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_77",
+      "patterns": [
+        "I need support topic 77",
+        "Talk to me about topic 77",
+        "I'm struggling with issue 77"
+      ],
+      "responses": [
+        "It's okay to be facing issue 77, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 77 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_78",
+      "patterns": [
+        "I need support topic 78",
+        "Talk to me about topic 78",
+        "I'm struggling with issue 78"
+      ],
+      "responses": [
+        "It's okay to be facing issue 78, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 78 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_79",
+      "patterns": [
+        "I need support topic 79",
+        "Talk to me about topic 79",
+        "I'm struggling with issue 79"
+      ],
+      "responses": [
+        "It's okay to be facing issue 79, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 79 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_80",
+      "patterns": [
+        "I need support topic 80",
+        "Talk to me about topic 80",
+        "I'm struggling with issue 80"
+      ],
+      "responses": [
+        "It's okay to be facing issue 80, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 80 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_81",
+      "patterns": [
+        "I need support topic 81",
+        "Talk to me about topic 81",
+        "I'm struggling with issue 81"
+      ],
+      "responses": [
+        "It's okay to be facing issue 81, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 81 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_82",
+      "patterns": [
+        "I need support topic 82",
+        "Talk to me about topic 82",
+        "I'm struggling with issue 82"
+      ],
+      "responses": [
+        "It's okay to be facing issue 82, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 82 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_83",
+      "patterns": [
+        "I need support topic 83",
+        "Talk to me about topic 83",
+        "I'm struggling with issue 83"
+      ],
+      "responses": [
+        "It's okay to be facing issue 83, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 83 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_84",
+      "patterns": [
+        "I need support topic 84",
+        "Talk to me about topic 84",
+        "I'm struggling with issue 84"
+      ],
+      "responses": [
+        "It's okay to be facing issue 84, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 84 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_85",
+      "patterns": [
+        "I need support topic 85",
+        "Talk to me about topic 85",
+        "I'm struggling with issue 85"
+      ],
+      "responses": [
+        "It's okay to be facing issue 85, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 85 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_86",
+      "patterns": [
+        "I need support topic 86",
+        "Talk to me about topic 86",
+        "I'm struggling with issue 86"
+      ],
+      "responses": [
+        "It's okay to be facing issue 86, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 86 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_87",
+      "patterns": [
+        "I need support topic 87",
+        "Talk to me about topic 87",
+        "I'm struggling with issue 87"
+      ],
+      "responses": [
+        "It's okay to be facing issue 87, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 87 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_88",
+      "patterns": [
+        "I need support topic 88",
+        "Talk to me about topic 88",
+        "I'm struggling with issue 88"
+      ],
+      "responses": [
+        "It's okay to be facing issue 88, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 88 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_89",
+      "patterns": [
+        "I need support topic 89",
+        "Talk to me about topic 89",
+        "I'm struggling with issue 89"
+      ],
+      "responses": [
+        "It's okay to be facing issue 89, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 89 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_90",
+      "patterns": [
+        "I need support topic 90",
+        "Talk to me about topic 90",
+        "I'm struggling with issue 90"
+      ],
+      "responses": [
+        "It's okay to be facing issue 90, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 90 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_91",
+      "patterns": [
+        "I need support topic 91",
+        "Talk to me about topic 91",
+        "I'm struggling with issue 91"
+      ],
+      "responses": [
+        "It's okay to be facing issue 91, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 91 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_92",
+      "patterns": [
+        "I need support topic 92",
+        "Talk to me about topic 92",
+        "I'm struggling with issue 92"
+      ],
+      "responses": [
+        "It's okay to be facing issue 92, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 92 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_93",
+      "patterns": [
+        "I need support topic 93",
+        "Talk to me about topic 93",
+        "I'm struggling with issue 93"
+      ],
+      "responses": [
+        "It's okay to be facing issue 93, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 93 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_94",
+      "patterns": [
+        "I need support topic 94",
+        "Talk to me about topic 94",
+        "I'm struggling with issue 94"
+      ],
+      "responses": [
+        "It's okay to be facing issue 94, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 94 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_95",
+      "patterns": [
+        "I need support topic 95",
+        "Talk to me about topic 95",
+        "I'm struggling with issue 95"
+      ],
+      "responses": [
+        "It's okay to be facing issue 95, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 95 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_96",
+      "patterns": [
+        "I need support topic 96",
+        "Talk to me about topic 96",
+        "I'm struggling with issue 96"
+      ],
+      "responses": [
+        "It's okay to be facing issue 96, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 96 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_97",
+      "patterns": [
+        "I need support topic 97",
+        "Talk to me about topic 97",
+        "I'm struggling with issue 97"
+      ],
+      "responses": [
+        "It's okay to be facing issue 97, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 97 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_98",
+      "patterns": [
+        "I need support topic 98",
+        "Talk to me about topic 98",
+        "I'm struggling with issue 98"
+      ],
+      "responses": [
+        "It's okay to be facing issue 98, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 98 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_99",
+      "patterns": [
+        "I need support topic 99",
+        "Talk to me about topic 99",
+        "I'm struggling with issue 99"
+      ],
+      "responses": [
+        "It's okay to be facing issue 99, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 99 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Support_Topic_100",
+      "patterns": [
+        "I need support topic 100",
+        "Talk to me about topic 100",
+        "I'm struggling with issue 100"
+      ],
+      "responses": [
+        "It's okay to be facing issue 100, many people experience this.\nYou\u2019re not alone \u2014 your feelings are valid.\nLet\u2019s take a moment to pause, breathe, and process this together.\nWould you like me to guide you through a coping strategy?",
+        "I understand that dealing with issue 100 is difficult.\nPlease don\u2019t be hard on yourself \u2014 healing takes time and care.\nYou deserve kindness, even from yourself.\nLet me help you take the first step today."
+      ],
+      "context_set": ""
+    }
+  ]
+}

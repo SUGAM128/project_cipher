@@ -1,0 +1,1404 @@
+{
+  "intents": [
+    {
+      "tag": "Topic_1",
+      "patterns": [
+        "Pattern 1a",
+        "Pattern 1b",
+        "Pattern 1c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 1.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_2",
+      "patterns": [
+        "Pattern 2a",
+        "Pattern 2b",
+        "Pattern 2c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 2.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_3",
+      "patterns": [
+        "Pattern 3a",
+        "Pattern 3b",
+        "Pattern 3c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 3.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_4",
+      "patterns": [
+        "Pattern 4a",
+        "Pattern 4b",
+        "Pattern 4c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 4.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_5",
+      "patterns": [
+        "Pattern 5a",
+        "Pattern 5b",
+        "Pattern 5c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 5.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_6",
+      "patterns": [
+        "Pattern 6a",
+        "Pattern 6b",
+        "Pattern 6c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 6.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_7",
+      "patterns": [
+        "Pattern 7a",
+        "Pattern 7b",
+        "Pattern 7c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 7.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_8",
+      "patterns": [
+        "Pattern 8a",
+        "Pattern 8b",
+        "Pattern 8c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 8.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_9",
+      "patterns": [
+        "Pattern 9a",
+        "Pattern 9b",
+        "Pattern 9c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 9.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_10",
+      "patterns": [
+        "Pattern 10a",
+        "Pattern 10b",
+        "Pattern 10c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 10.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_11",
+      "patterns": [
+        "Pattern 11a",
+        "Pattern 11b",
+        "Pattern 11c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 11.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_12",
+      "patterns": [
+        "Pattern 12a",
+        "Pattern 12b",
+        "Pattern 12c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 12.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_13",
+      "patterns": [
+        "Pattern 13a",
+        "Pattern 13b",
+        "Pattern 13c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 13.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_14",
+      "patterns": [
+        "Pattern 14a",
+        "Pattern 14b",
+        "Pattern 14c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 14.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_15",
+      "patterns": [
+        "Pattern 15a",
+        "Pattern 15b",
+        "Pattern 15c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 15.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_16",
+      "patterns": [
+        "Pattern 16a",
+        "Pattern 16b",
+        "Pattern 16c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 16.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_17",
+      "patterns": [
+        "Pattern 17a",
+        "Pattern 17b",
+        "Pattern 17c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 17.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_18",
+      "patterns": [
+        "Pattern 18a",
+        "Pattern 18b",
+        "Pattern 18c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 18.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_19",
+      "patterns": [
+        "Pattern 19a",
+        "Pattern 19b",
+        "Pattern 19c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 19.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_20",
+      "patterns": [
+        "Pattern 20a",
+        "Pattern 20b",
+        "Pattern 20c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 20.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_21",
+      "patterns": [
+        "Pattern 21a",
+        "Pattern 21b",
+        "Pattern 21c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 21.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_22",
+      "patterns": [
+        "Pattern 22a",
+        "Pattern 22b",
+        "Pattern 22c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 22.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_23",
+      "patterns": [
+        "Pattern 23a",
+        "Pattern 23b",
+        "Pattern 23c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 23.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_24",
+      "patterns": [
+        "Pattern 24a",
+        "Pattern 24b",
+        "Pattern 24c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 24.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_25",
+      "patterns": [
+        "Pattern 25a",
+        "Pattern 25b",
+        "Pattern 25c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 25.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_26",
+      "patterns": [
+        "Pattern 26a",
+        "Pattern 26b",
+        "Pattern 26c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 26.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_27",
+      "patterns": [
+        "Pattern 27a",
+        "Pattern 27b",
+        "Pattern 27c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 27.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_28",
+      "patterns": [
+        "Pattern 28a",
+        "Pattern 28b",
+        "Pattern 28c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 28.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_29",
+      "patterns": [
+        "Pattern 29a",
+        "Pattern 29b",
+        "Pattern 29c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 29.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_30",
+      "patterns": [
+        "Pattern 30a",
+        "Pattern 30b",
+        "Pattern 30c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 30.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_31",
+      "patterns": [
+        "Pattern 31a",
+        "Pattern 31b",
+        "Pattern 31c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 31.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_32",
+      "patterns": [
+        "Pattern 32a",
+        "Pattern 32b",
+        "Pattern 32c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 32.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_33",
+      "patterns": [
+        "Pattern 33a",
+        "Pattern 33b",
+        "Pattern 33c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 33.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_34",
+      "patterns": [
+        "Pattern 34a",
+        "Pattern 34b",
+        "Pattern 34c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 34.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_35",
+      "patterns": [
+        "Pattern 35a",
+        "Pattern 35b",
+        "Pattern 35c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 35.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_36",
+      "patterns": [
+        "Pattern 36a",
+        "Pattern 36b",
+        "Pattern 36c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 36.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_37",
+      "patterns": [
+        "Pattern 37a",
+        "Pattern 37b",
+        "Pattern 37c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 37.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_38",
+      "patterns": [
+        "Pattern 38a",
+        "Pattern 38b",
+        "Pattern 38c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 38.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_39",
+      "patterns": [
+        "Pattern 39a",
+        "Pattern 39b",
+        "Pattern 39c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 39.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_40",
+      "patterns": [
+        "Pattern 40a",
+        "Pattern 40b",
+        "Pattern 40c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 40.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_41",
+      "patterns": [
+        "Pattern 41a",
+        "Pattern 41b",
+        "Pattern 41c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 41.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_42",
+      "patterns": [
+        "Pattern 42a",
+        "Pattern 42b",
+        "Pattern 42c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 42.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_43",
+      "patterns": [
+        "Pattern 43a",
+        "Pattern 43b",
+        "Pattern 43c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 43.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_44",
+      "patterns": [
+        "Pattern 44a",
+        "Pattern 44b",
+        "Pattern 44c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 44.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_45",
+      "patterns": [
+        "Pattern 45a",
+        "Pattern 45b",
+        "Pattern 45c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 45.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_46",
+      "patterns": [
+        "Pattern 46a",
+        "Pattern 46b",
+        "Pattern 46c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 46.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_47",
+      "patterns": [
+        "Pattern 47a",
+        "Pattern 47b",
+        "Pattern 47c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 47.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_48",
+      "patterns": [
+        "Pattern 48a",
+        "Pattern 48b",
+        "Pattern 48c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 48.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_49",
+      "patterns": [
+        "Pattern 49a",
+        "Pattern 49b",
+        "Pattern 49c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 49.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_50",
+      "patterns": [
+        "Pattern 50a",
+        "Pattern 50b",
+        "Pattern 50c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 50.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_51",
+      "patterns": [
+        "Pattern 51a",
+        "Pattern 51b",
+        "Pattern 51c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 51.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_52",
+      "patterns": [
+        "Pattern 52a",
+        "Pattern 52b",
+        "Pattern 52c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 52.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_53",
+      "patterns": [
+        "Pattern 53a",
+        "Pattern 53b",
+        "Pattern 53c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 53.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_54",
+      "patterns": [
+        "Pattern 54a",
+        "Pattern 54b",
+        "Pattern 54c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 54.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_55",
+      "patterns": [
+        "Pattern 55a",
+        "Pattern 55b",
+        "Pattern 55c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 55.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_56",
+      "patterns": [
+        "Pattern 56a",
+        "Pattern 56b",
+        "Pattern 56c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 56.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_57",
+      "patterns": [
+        "Pattern 57a",
+        "Pattern 57b",
+        "Pattern 57c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 57.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_58",
+      "patterns": [
+        "Pattern 58a",
+        "Pattern 58b",
+        "Pattern 58c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 58.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_59",
+      "patterns": [
+        "Pattern 59a",
+        "Pattern 59b",
+        "Pattern 59c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 59.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_60",
+      "patterns": [
+        "Pattern 60a",
+        "Pattern 60b",
+        "Pattern 60c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 60.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_61",
+      "patterns": [
+        "Pattern 61a",
+        "Pattern 61b",
+        "Pattern 61c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 61.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_62",
+      "patterns": [
+        "Pattern 62a",
+        "Pattern 62b",
+        "Pattern 62c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 62.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_63",
+      "patterns": [
+        "Pattern 63a",
+        "Pattern 63b",
+        "Pattern 63c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 63.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_64",
+      "patterns": [
+        "Pattern 64a",
+        "Pattern 64b",
+        "Pattern 64c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 64.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_65",
+      "patterns": [
+        "Pattern 65a",
+        "Pattern 65b",
+        "Pattern 65c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 65.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_66",
+      "patterns": [
+        "Pattern 66a",
+        "Pattern 66b",
+        "Pattern 66c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 66.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_67",
+      "patterns": [
+        "Pattern 67a",
+        "Pattern 67b",
+        "Pattern 67c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 67.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_68",
+      "patterns": [
+        "Pattern 68a",
+        "Pattern 68b",
+        "Pattern 68c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 68.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_69",
+      "patterns": [
+        "Pattern 69a",
+        "Pattern 69b",
+        "Pattern 69c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 69.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_70",
+      "patterns": [
+        "Pattern 70a",
+        "Pattern 70b",
+        "Pattern 70c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 70.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_71",
+      "patterns": [
+        "Pattern 71a",
+        "Pattern 71b",
+        "Pattern 71c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 71.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_72",
+      "patterns": [
+        "Pattern 72a",
+        "Pattern 72b",
+        "Pattern 72c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 72.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_73",
+      "patterns": [
+        "Pattern 73a",
+        "Pattern 73b",
+        "Pattern 73c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 73.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_74",
+      "patterns": [
+        "Pattern 74a",
+        "Pattern 74b",
+        "Pattern 74c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 74.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_75",
+      "patterns": [
+        "Pattern 75a",
+        "Pattern 75b",
+        "Pattern 75c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 75.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_76",
+      "patterns": [
+        "Pattern 76a",
+        "Pattern 76b",
+        "Pattern 76c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 76.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_77",
+      "patterns": [
+        "Pattern 77a",
+        "Pattern 77b",
+        "Pattern 77c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 77.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_78",
+      "patterns": [
+        "Pattern 78a",
+        "Pattern 78b",
+        "Pattern 78c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 78.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_79",
+      "patterns": [
+        "Pattern 79a",
+        "Pattern 79b",
+        "Pattern 79c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 79.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_80",
+      "patterns": [
+        "Pattern 80a",
+        "Pattern 80b",
+        "Pattern 80c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 80.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_81",
+      "patterns": [
+        "Pattern 81a",
+        "Pattern 81b",
+        "Pattern 81c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 81.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_82",
+      "patterns": [
+        "Pattern 82a",
+        "Pattern 82b",
+        "Pattern 82c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 82.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_83",
+      "patterns": [
+        "Pattern 83a",
+        "Pattern 83b",
+        "Pattern 83c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 83.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_84",
+      "patterns": [
+        "Pattern 84a",
+        "Pattern 84b",
+        "Pattern 84c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 84.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_85",
+      "patterns": [
+        "Pattern 85a",
+        "Pattern 85b",
+        "Pattern 85c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 85.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_86",
+      "patterns": [
+        "Pattern 86a",
+        "Pattern 86b",
+        "Pattern 86c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 86.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_87",
+      "patterns": [
+        "Pattern 87a",
+        "Pattern 87b",
+        "Pattern 87c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 87.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_88",
+      "patterns": [
+        "Pattern 88a",
+        "Pattern 88b",
+        "Pattern 88c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 88.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_89",
+      "patterns": [
+        "Pattern 89a",
+        "Pattern 89b",
+        "Pattern 89c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 89.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_90",
+      "patterns": [
+        "Pattern 90a",
+        "Pattern 90b",
+        "Pattern 90c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 90.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_91",
+      "patterns": [
+        "Pattern 91a",
+        "Pattern 91b",
+        "Pattern 91c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 91.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_92",
+      "patterns": [
+        "Pattern 92a",
+        "Pattern 92b",
+        "Pattern 92c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 92.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_93",
+      "patterns": [
+        "Pattern 93a",
+        "Pattern 93b",
+        "Pattern 93c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 93.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_94",
+      "patterns": [
+        "Pattern 94a",
+        "Pattern 94b",
+        "Pattern 94c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 94.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_95",
+      "patterns": [
+        "Pattern 95a",
+        "Pattern 95b",
+        "Pattern 95c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 95.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_96",
+      "patterns": [
+        "Pattern 96a",
+        "Pattern 96b",
+        "Pattern 96c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 96.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_97",
+      "patterns": [
+        "Pattern 97a",
+        "Pattern 97b",
+        "Pattern 97c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 97.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_98",
+      "patterns": [
+        "Pattern 98a",
+        "Pattern 98b",
+        "Pattern 98c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 98.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_99",
+      "patterns": [
+        "Pattern 99a",
+        "Pattern 99b",
+        "Pattern 99c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 99.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Topic_100",
+      "patterns": [
+        "Pattern 100a",
+        "Pattern 100b",
+        "Pattern 100c"
+      ],
+      "responses": [
+        "This is a helpful supportive message for tag 100.",
+        "You're doing your best and it's okay to have tough moments.\nTake things one step at a time and don't hesitate to seek help.\nRemember, you're not alone and support is always within reach.\nLet\u2019s work on what\u2019s bothering you together.",
+        "Things might feel overwhelming now, but they can and will get better.\nYou have the strength to get through this, even if it doesn\u2019t feel like it right now.\nTake a breath, be kind to yourself, and remember \u2014 I\u2019m here for you.\nWould you like to explore some calming techniques?"
+      ],
+      "context_set": ""
+    }
+  ]
+}

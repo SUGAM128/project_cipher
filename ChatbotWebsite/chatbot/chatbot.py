@@ -119,6 +119,15 @@ def bag_of_words(message, words):
 # context
 context = {}
 
+# Music recommendation dictionary for mood tags (add your music files here)
+music_recommendations = {
+    "sad": ["static/music/Rain and Thunder Sounds.mp3"],
+    "happy": ["static/music/Rain and Thunder Sounds.mp3"],
+    "angry": ["static/music/Rain and Thunder Sounds.mp3"],
+    "relaxed": ["static/music/relaxed_song1.mp3"],
+    # Add more mood tags and song paths as needed
+}
+
 
 # predict class, return list of tuples (tag, probability)
 def predict_class(message, ERROR_THRESHOLD=0.25):
@@ -132,32 +141,37 @@ def predict_class(message, ERROR_THRESHOLD=0.25):
     return return_list
 
 
-# get response, return response
+# get response, return response + optional music recommendation
 def get_response(message, id="000"):
-    spell = Speller()  # autocorrect
+    spell = Speller()
     corrected_message = spell(message)
-    results = predict_class(corrected_message)  # get list of tuples (tag, probability)
-    if results:  # if results exist
-        while results:  # loop through results
-            for intent in intents["intents"]:  # loop through intents
-                if intent["tag"] == results[0][0]:  # if tag matches
-                    if intent["tag"].lower() == "reiterate":  # if tag is reiterate
-                        if context:  # if context exists
+    results = predict_class(corrected_message)
+    
+    if results:
+        while results:
+            for intent in intents["intents"]:
+                if intent["tag"] == results[0][0]:
+                    if intent["tag"].lower() == "reiterate":
+                        if context:
                             for tg in intents["intents"]:
-                                if (
-                                    "context_set" in tg
-                                    and tg["context_set"] == context[id]
-                                ):
+                                if "context_set" in tg and tg["context_set"] == context[id]:
                                     response = random.choice(tg["responses"])
-                                    return str(response)
+                                    return str(response), tg["tag"]
                         else:
                             response = random.choice(intent["responses"])
-                            return str(response)
+                            return str(response), intent["tag"]
+
                     if "context_set" in intent and intent["context_set"] != "":
                         context[id] = intent["context_set"]
+
                     response = random.choice(intent["responses"])
-                    return str(response)
+                    
+
+                    return str(response), intent["tag"]
             results.pop(0)
-    else:  # if no results
+    else:
         response = "I apologize if my response wasn't what you were looking for. As an AI language model, my knowledge and understanding are limited by the data that I was trained on. If you need more detailed or specific information, I suggest consulting with a human expert or conducting further research online. Please let me know if you have any other questions or if there's anything else I can help you with."
-    return str(response)
+        return str(response), "default"
+
+
+
