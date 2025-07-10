@@ -120,13 +120,25 @@ def bag_of_words(message, words):
 context = {}
 
 # Music recommendation dictionary for mood tags (add your music files here)
+# In chatbot.py (or wherever your chatbot logic is)
+
 music_recommendations = {
-    "sad": ["static/music/Rain and Thunder Sounds.mp3"],
-    "happy": ["static/music/Rain and Thunder Sounds.mp3"],
-    "angry": ["static/music/Rain and Thunder Sounds.mp3"],
-    "relaxed": ["static/music/relaxed_song1.mp3"],
-    # Add more mood tags and song paths as needed
+    "feelingsad": ["/static/music/sad.mp3"],
+    "sad": ["/static/music/sad.mp3"],
+    "copingwithanger": ["/static/music/angry.mp3"],
+    "anxiety": ["/static/music/anxiety.mp3"],
+    "happy": ["/static/music/Happy_Song.mp3"],
+    "relaxed": ["/static/music/relaxed_song1.mp3"],
+    "sleepissues":["/static/music/sleep.mp3"]
 }
+
+def get_music_by_tag(tag):
+    # Lowercase to be safe
+    tag = tag.lower()
+    # Return first music path for tag if exists
+    if tag in music_recommendations:
+        return music_recommendations[tag][0]  # you can add random choice later if you want multiple songs
+    return None
 
 
 # predict class, return list of tuples (tag, probability)
@@ -172,6 +184,4 @@ def get_response(message, id="000"):
     else:
         response = "I apologize if my response wasn't what you were looking for. As an AI language model, my knowledge and understanding are limited by the data that I was trained on. If you need more detailed or specific information, I suggest consulting with a human expert or conducting further research online. Please let me know if you have any other questions or if there's anything else I can help you with."
         return str(response), "default"
-
-
 

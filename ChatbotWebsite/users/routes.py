@@ -9,6 +9,8 @@ from flask import (
     redirect,
 )
 from flask_login import login_user, current_user, logout_user, login_required
+from flask import session
+
 
 from ChatbotWebsite import db, bcrypt
 from ChatbotWebsite.models import User, ChatMessage, Journal
@@ -21,33 +23,72 @@ from ChatbotWebsite.users.forms import (
 )
 from ChatbotWebsite.users.utils import save_picture, send_reset_email
 import os
+import random
+from .utils import send_otp_email
+
 
 users = Blueprint("users", __name__)
 
+from flask import request, jsonify
+import random
+
+@users.route('/send_otp', methods=['POST']) # Only if CSRF protection is on, and not using CSRF token
+def send_otp_ajax():
+    data = request.get_json()
+    email = data.get("email")
+    if not email:
+        return jsonify(success=False), 400
+
+    otp = str(random.randint(100000, 999999))
+    session['otp'] = otp
+    session['reg_email'] = email
+
+    try:
+        send_otp_email(email, otp)  # Your function to send OTP email
+        return jsonify(success=True)
+    except Exception as e:
+        print("OTP send error:", e)
+        return jsonify(success=False)
+
+
 
 # register page/route
-@users.route("/register", methods=["GET", "POST"])
+@users.route('/register', methods=['GET', 'POST'])
 def register():
-    if (
-        current_user.is_authenticated
-    ):  # if user is already logged in, redirect to home page
-        return redirect(url_for("main.home"))
-    form = RegistrationForm()  # create registration form
-    if (
-        form.validate_on_submit()
-    ):  # if form is submitted, create new user and add to database
-        hashed_password = bcrypt.generate_password_hash(form.password.data).decode(
-            "utf-8"
-        )
-        new_user = User(
-            username=form.username.data, email=form.email.data, password=hashed_password
-        )
-        db.session.add(new_user)
-        db.session.commit()
-        flash("Your account has been created! You are now able to log in.", "success")
-        return redirect(url_for("users.login"))
-    return render_template("register.html", title="Register", form=form)
+    form = RegistrationForm()
 
+    if form.validate_on_submit():
+        entered_otp = form.otp.data.strip()
+        session_otp = session.get('otp')
+        session_email = session.get('reg_email')
+
+        # Check email matches session email (optional)
+        if form.email.data != session_email:
+            flash('Email does not match the OTP email.', 'danger')
+            return render_template('register.html', form=form, show_otp=True)
+
+        if session_otp is None:
+            flash('OTP expired or not sent. Please try again.', 'danger')
+            return render_template('register.html', form=form, show_otp=True)
+
+        if entered_otp != session_otp:
+            flash('Incorrect OTP. Please try again.', 'danger')
+            return render_template('register.html', form=form, show_otp=True)
+
+        # OTP correct - proceed to register user
+        hashed_password = bcrypt.generate_password_hash(form.password.data).decode('utf-8')
+        user = User(username=form.username.data, email=form.email.data, password=hashed_password)
+        db.session.add(user)
+        db.session.commit()
+
+        # Clear OTP session
+        session.pop('otp', None)
+        session.pop('reg_email', None)
+
+        flash('Your account has been created! You can now log in.', 'success')
+        return redirect(url_for('users.login'))
+
+    return render_template('register.html', form=form, show_otp=False)
 
 # login page/route
 @users.route("/login", methods=["GET", "POST"])

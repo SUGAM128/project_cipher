@@ -8,29 +8,25 @@ from ChatbotWebsite.models import User
 
 # registration form
 class RegistrationForm(FlaskForm):
-    username = StringField(
-        "Username", validators=[DataRequired(), Length(min=2, max=20)]
-    )
+    username = StringField("Username", validators=[DataRequired(), Length(min=2, max=20)])
     email = StringField("Email", validators=[DataRequired(), Email()])
     password = PasswordField("Password", validators=[DataRequired(), Length(max=20)])
-    confirm_password = PasswordField(
-        "Confirm Password", validators=[DataRequired(), EqualTo("password")]
-    )
+    confirm_password = PasswordField("Confirm Password", validators=[DataRequired(), EqualTo("password")])
+    
+    otp = StringField("Enter OTP", validators=[])  # only shown after first submit
+    
     submit = SubmitField("Register")
 
     def validate_username(self, username):
         user = User.query.filter_by(username=username.data).first()
         if user:
-            raise ValidationError(
-                "Username already exists. Please choose a different one."
-            )
+            raise ValidationError("Username already exists. Please choose a different one.")
 
     def validate_email(self, email):
         user = User.query.filter_by(email=email.data).first()
         if user:
-            raise ValidationError(
-                "Email already exists. Please choose a different one."
-            )
+            raise ValidationError("Email already exists. Please choose a different one.")
+
 
 
 # login form

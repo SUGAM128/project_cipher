@@ -1,68 +1,150 @@
-{%extends "layout.html"%} {%block content%}
+{% extends "layout.html" %}
+{% block content %}
 <div class="container-sm px-5">
   <div class="row">
     <div class="col-8">
-      <form method="POST" action="">
-        {{form.hidden_tag()}}
+      <form method="POST" action="" id="register-form">
+        {{ form.hidden_tag() }}
         <fieldset class="form-group d-grid gap-3">
-          <legend
-            class="fs-1 fw-bold font-monospace border-bottom border-info mb-3 mt-2"
-          >
+          <legend class="fs-1 fw-bold font-monospace border-bottom border-info mb-3 mt-2">
             Register
           </legend>
+
+          <!-- Username -->
           <div class="form-group">
-            {{form.username.label(class="form-control-label")}} {%if
-            form.username.errors%} {{form.username(class="form-control
-            form-control-lg is-invalid")}} {%for error in form.username.errors%}
-            <div class="invalid-feedback">{{error}}</div>
-            {%endfor%} {%else%} {{form.username(class="form-control
-            form-control-lg")}} {%endif%}
+            {{ form.username.label(class="form-control-label") }}
+            {% if form.username.errors %}
+              {{ form.username(class="form-control form-control-lg is-invalid") }}
+              {% for error in form.username.errors %}
+              <div class="invalid-feedback">{{ error }}</div>
+              {% endfor %}
+            {% else %}
+              {{ form.username(class="form-control form-control-lg") }}
+            {% endif %}
           </div>
+
+          <!-- Email -->
           <div class="form-group">
-            {{form.email.label(class="form-control-label")}} {%if
-            form.email.errors%} {{form.email(class="form-control form-control-lg
-            is-invalid")}} {%for error in form.email.errors%}
-            <div class="invalid-feedback">{{error}}</div>
-            {%endfor%} {%else%} {{form.email(class="form-control form-control-lg")}}
-            {%endif%}
+            {{ form.email.label(class="form-control-label") }}
+            {% if form.email.errors %}
+              {{ form.email(class="form-control form-control-lg is-invalid", id="email-field") }}
+              {% for error in form.email.errors %}
+              <div class="invalid-feedback">{{ error }}</div>
+              {% endfor %}
+            {% else %}
+              {{ form.email(class="form-control form-control-lg", id="email-field") }}
+            {% endif %}
           </div>
-          <div class="form-group">
-            {{form.password.label(class="form-control-label")}} {%if
-            form.password.errors%} {{form.password(class="form-control
-            form-control-lg is-invalid")}} {%for error in form.password.errors%}
-            <div class="invalid-feedback">{{error}}</div>
-            {%endfor%} {%else%} {{form.password(class="form-control
-            form-control-lg")}} {%endif%}
+
+          <!-- Password -->
+          <div class="form-group" id="password-group">
+            {{ form.password.label(class="form-control-label") }}
+            {% if form.password.errors %}
+              {{ form.password(class="form-control form-control-lg is-invalid", id="password-field") }}
+              {% for error in form.password.errors %}
+              <div class="invalid-feedback">{{ error }}</div>
+              {% endfor %}
+            {% else %}
+              {{ form.password(class="form-control form-control-lg", id="password-field") }}
+            {% endif %}
           </div>
-          <div class="form-group">
-            {{form.confirm_password.label(class="form-control-label")}} {%if
-            form.confirm_password.errors%}
-            {{form.confirm_password(class="form-control form-control-lg
-            is-invalid")}} {%for error in form.confirm_password.errors%}
-            <div class="invalid-feedback">{{error}}</div>
-            {%endfor%} {%else%} {{form.confirm_password(class="form-control
-            form-control-lg")}} {%endif%}
+
+          <!-- Confirm Password -->
+          <div class="form-group" id="confirm-password-group">
+            {{ form.confirm_password.label(class="form-control-label") }}
+            {% if form.confirm_password.errors %}
+              {{ form.confirm_password(class="form-control form-control-lg is-invalid", id="confirm-password-field") }}
+              {% for error in form.confirm_password.errors %}
+              <div class="invalid-feedback">{{ error }}</div>
+              {% endfor %}
+            {% else %}
+              {{ form.confirm_password(class="form-control form-control-lg", id="confirm-password-field") }}
+            {% endif %}
           </div>
+
+          <!-- OTP Input (hidden initially) -->
+          <div class="form-group" id="otp-div" style="display: none;">
+            {{ form.otp.label(class="form-control-label") }}
+            {{ form.otp(class="form-control form-control-lg", id="otp-field") }}
+            <small id="otp-status" class="text-success" style="display:none;">OTP sent to your email.</small>
+          </div>
+
         </fieldset>
+
+        <!-- Submit -->
         <div class="form-group">
-          {{form.submit(class="btn btn-outline-info btn-lg mt-3")}}
+          {{ form.submit(class="btn btn-outline-info btn-lg mt-3", id="register-btn") }}
         </div>
       </form>
+
       <hr />
       <div>
-        <small
-          >Already Have an Account?
-          <a class="link-info text-decoration-none" href="{{url_for('users.login')}}"
-            >Sign In</a
-          ></small
-        >
+        <small>
+          Already Have an Account?
+          <a class="link-info text-decoration-none" href="{{ url_for('users.login') }}">
+            Sign In
+          </a>
+        </small>
       </div>
     </div>
+
+    <!-- Right Image -->
     <div class="col-4">
-      <img src="{{url_for('static',filename='images/register.jpg')}}" 
-      id="register-image"
-      class="img-fluid rounded-start my-4">
+      <img src="{{ url_for('static', filename='images/register.jpg') }}" 
+           id="register-image"
+           class="img-fluid rounded-start my-4">
     </div>
   </div>
 </div>
-{% endblock content%}
+
+<script>
+document.getElementById('register-form').addEventListener('submit', function(event) {
+  const otpDiv = document.getElementById('otp-div');
+  const otpField = document.getElementById('otp-field');
+  const email = document.getElementById('email-field').value;
+
+  // If OTP field is not visible, send OTP instead of form submit
+  if (otpDiv.style.display === 'none') {
+    event.preventDefault(); // prevent actual form submit
+
+    if (!email) {
+      alert("Please enter your email first.");
+      return;
+    }
+
+    // Send OTP via AJAX to your backend endpoint
+    fetch('/send_otp', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+       // include CSRF token if using Flask-WTF CSRF protection
+      },
+      body: JSON.stringify({ email: email })
+    })
+    .then(response => response.json())
+    .then(data => {
+      if (data.success) {
+        otpDiv.style.display = 'block';          // Show OTP input
+        document.getElementById('otp-status').style.display = 'block';  // Show OTP sent message
+        
+        // Hide password fields
+        document.getElementById('password-group').style.display = 'none';
+        document.getElementById('confirm-password-group').style.display = 'none';
+
+        alert("OTP sent to your email. Please enter it to complete registration.");
+      } else {
+        alert("Failed to send OTP. Please check your email and try again.");
+      }
+    })
+    .catch(error => {
+      console.error('Error:', error);
+      alert("An error occurred sending OTP.");
+    });
+
+  } else {
+    // OTP field visible: allow form to submit normally for server-side validation
+  }
+});
+</script>
+
+{% endblock content %}

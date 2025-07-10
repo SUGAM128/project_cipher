@@ -35,3 +35,13 @@ Please do not reply to this email and share this email with anyone.
 If you did not make this request then simply ignore this email and no changes will be made.
 """
     mail.send(msg)
+
+
+def send_otp_email(recipient_email, otp):
+    msg = Message(
+        "OTP Verification - CIPHER",
+        sender=("Project_Cipher", "your_email@gmail.com"),  # Display name + email
+        recipients=[recipient_email]
+    )
+    msg.body = f"""Your OTP for registration is: {otp}."""
+    mail.send(msg)

@@ -6,7 +6,7 @@
   const msgerChat = get(".main-chat");
 
   //images and name for bot and user
-  const BOT_IMG = "static/images/chatbot.png";
+  const BOT_IMG = "static/images/mental_helath.jfif";
   const BOT_NAME = "Mental Health Chatbot";
   const USER_NAME = "You";
   let image_file = $("#message-form").attr("image_file");
@@ -25,19 +25,21 @@
       type: "POST",
       url: "/chat_messages",
     }).done(function (data) {
-      // Append chatbot main message
-      appendMessage(BOT_NAME, BOT_IMG, "left", data.msg);
+  appendMessage(BOT_NAME, BOT_IMG, "left", data.msg);
 
-      // Append music (if any)
-      if (data.music && data.music.trim() !== "") {
-        appendMessageRawHTML(BOT_NAME, BOT_IMG, "left", data.music);
-      }
+  if (data.music && data.music.trim() !== "") {
+    appendMessageRawHTML(BOT_NAME, BOT_IMG, "left", data.music);
+  }
 
-      // Append SOS message (if any)
-      if (data.sos && data.sos.trim() !== "") {
-        appendMessageRawHTML(BOT_NAME, BOT_IMG, "left", data.sos);
-      }
-    });
+  if (data.video && data.video.trim() !== "") {
+    appendMessageRawHTML(BOT_NAME, BOT_IMG, "left", data.video);
+  }
+
+  if (data.sos && data.sos.trim() !== "") {
+    appendMessageRawHTML(BOT_NAME, BOT_IMG, "left", data.sos);
+  }
+});
+
 
     $("#textInput").val("");
   });

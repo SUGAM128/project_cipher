@@ -16,4 +16,4 @@ class Config:
     MAIL_USE_TLS = True
     MAIL_USE_SSL = False
     MAIL_USERNAME = os.environ.get("MAIL_USERNAME") or 'pawpal950@gmail.com'
-    MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD") or 'vcgteouslgzbdhxe'
+    MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD") or 'dvyjqulqnqgzrabi'
